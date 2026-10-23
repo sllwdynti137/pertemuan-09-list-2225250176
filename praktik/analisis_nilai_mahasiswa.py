@@ -40,3 +40,4 @@ print(f"Nilai maksimum   : {maksimum}")
 print(f"Nilai yang lulus : {lulus}")
 print(f"Jumlah lulus     : {jumlah_lulus}")
 print(f"Belum lulus      : {belum_lulus}")
+# Program praktik analisis nilai mahasiswa Pertemuan 09
